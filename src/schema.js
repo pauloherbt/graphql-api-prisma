@@ -69,3 +69,4 @@ const resolvers = {
     title: (parent) => parent.title,
   },
 }
+export {typeDefs, resolvers};
